@@ -213,3 +213,9 @@ data
 catboost*
 LightAutoML
 presentation*
+
+papers
+obzor*
+
+!presentation.pdf
+!obzor.pdf
